@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cipher</string>
+    <string name="title_home">Vigenere</string>
+    <string name="title_play">Playfair</string>
+
+    <string name="title_vignere">Vigenere Cipher</string>
+    <string name="plain">Plain Text</string>
+    <string name="run">Run</string>
+    <string name="key">Key</string>
+    <string name="reset">Reset</string>
+    <string name="out">Output : </string>
+    <string name="title_playfair">Playfair Cipher</string>
+    <string name="output">Output</string>
+</resources>

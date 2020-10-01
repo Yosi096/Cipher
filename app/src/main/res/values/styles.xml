@@ -1,0 +1,35 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">>
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="menu">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="background">@drawable/background</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="menu1">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="background">@drawable/background</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="menu3" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginEnd">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:background">@drawable/bck_btn1</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>
